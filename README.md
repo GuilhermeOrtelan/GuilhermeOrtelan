@@ -9,4 +9,7 @@ Curso tecnologia pelo alura.
 Estudo javascript.
  
 
-![yhwach](https://github.com/GuilhermeOrtelan/GuilhermeOrtelan/assets/169089004/2189212f-8367-487a-ab10-7a972cf9e3b2)
+
+![ok-t-pose](https://github.com/GuilhermeOrtelan/GuilhermeOrtelan/assets/169089004/ebc99226-6b5d-48b8-8f37-45b750e361cc)
+
+
